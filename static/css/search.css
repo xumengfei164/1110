@@ -1,0 +1,19 @@
+﻿.hei{
+    font-weight: bold;
+}
+.sou{
+    display: inline-block;
+    float: left;
+    width: 220px; margin-right:10px;
+}
+.moshi{
+  display: inline-block;
+  margin-left:10px;
+    width:120px;
+}
+.widthsix{
+    width: 40px;
+}
+.lightborder{
+    border:1px lightblue dashed;
+}
